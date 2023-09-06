@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 To initialize the app open a CMD in the same directory of the project and make sure you have activated the Anaconda🐍 environement and installed `requirements.txt` first, then type:
 ```python
-streamlit run app_V3.py
+streamlit run src/app_V3.py
 ```
 
 ### Just upload an audio file, choose your favorite style, and enjoy! 🎆📹
