@@ -1,7 +1,7 @@
 ![](data/logo.png)
 # 🌟🌟 Videoclip generator from a song. 🌟🌟
 
-##⚠️It is highly recommended to create an Anaconda🐍 environement⚠️
+## ⚠️It is highly recommended to create an Anaconda🐍 environement⚠️
 
 Open the conda prompt and type:
 ```python
