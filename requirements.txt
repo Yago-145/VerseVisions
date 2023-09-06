@@ -1,0 +1,15 @@
+spotipy
+regex
+lyricsgenius
+transformers
+numpy
+#python-csv
+pytest-shutil
+spacy
+scipy
+stability-sdk
+Pillow
+protobuf==4.21.12
+tk
+customtkinter
+opencv-python
